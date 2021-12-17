@@ -6,7 +6,7 @@ i imitated the NEXON game "carzy arcade".
 first player
 상하좌우(up, down, left, right): 방향키(Arrow Key)
 물풍선(waterballoon): 스페이스바(space)
-
+<br>
 second player
 상하좌우(up, down, left, right): RFDG
 물풍선(waterballoon): A
